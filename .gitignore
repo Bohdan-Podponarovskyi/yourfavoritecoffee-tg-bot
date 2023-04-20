@@ -1,0 +1,8 @@
+.idea
+package-lock.json
+.env
+
+coffee.jpeg
+coffe_2.jpeg
+
+/node_modules
